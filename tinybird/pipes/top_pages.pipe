@@ -7,7 +7,7 @@ TOKEN "dashboard" READ
 
 NODE endpoint
 DESCRIPTION >
-    Group by pagepath and calcualte hits and visits
+    Group by pagepath and calculate hits and visits
 
 SQL >
     %

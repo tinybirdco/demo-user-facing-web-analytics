@@ -7,7 +7,7 @@ TOKEN "dashboard" READ
 
 NODE endpoint
 DESCRIPTION >
-    Group by device and calcualte hits and visits
+    Group by device and calculate hits and visits
 
 SQL >
     %
