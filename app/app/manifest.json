@@ -1,0 +1,17 @@
+{
+  "name": "User-Facing Web Analytics Dashboard",
+  "short_name": "UFA Dashboard",
+  "display": "standalone",
+  "orientation": "portrait",
+  "purpose": "any maskable",
+  "theme_color": "#0066FF",
+  "background_color": "#0066FF",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}

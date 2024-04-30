@@ -1,0 +1,40 @@
+{
+  "name": "@tinybirdco/demo-user-facing-web-analytics-dashboard",
+  "version": "1.0.0",
+  "description": "Tinybird User-Facing Web Analytics Dashboard",
+  "homepage": "https://github.com/tinybirdco/demo-user-facing-web-analytics/tree/main/dashboard#README",
+  "bugs": {
+    "url": "https://github.com/tinybirdco/demo-user-facing-web-analytics/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinybirdco/demo-user-facing-web-analytics"
+  },
+  "license": "MIT",
+  "author": "Tinybird team",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.7",
+    "@tremor/react": "^3.16.0",
+    "next": "^14.2.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-intersection-observer": "^9.8.2",
+    "swr": "^2.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
