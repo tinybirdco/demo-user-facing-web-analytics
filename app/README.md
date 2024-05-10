@@ -4,6 +4,8 @@ This folder contains all of the code to build the frontend of this demo.
 
 ![App Screenshot](../img/app_screenshot.png "App Screenshot")
 
+To read the full e2e tutorial, head to [the Tinybird docs > User-facing web analytics tutorial](https://www.tinybird.co/docs/guides/tutorials/user-facing-web-analytics).
+
 ## Deploying the app
 
 This is a NextJS application. Deploy it to the cloud with Vercel.
@@ -12,5 +14,3 @@ This is a NextJS application. Deploy it to the cloud with Vercel.
 
 You'll need to enter your [Tinybird Token](https://www.tinybird.co/docs/concepts/auth-tokens) and Tinybird Host (e.g. https://ui.tinybird.co).
 Also, we recommend you to set also the `NEXT_PUBLIC_BASE_URL` variable with your application final url (e.g. https://analytics.tinybird.co).
-
-
