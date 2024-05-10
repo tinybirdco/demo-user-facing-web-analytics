@@ -8,12 +8,12 @@ This repo contains all the resources you need to build a real-time web analytics
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites
 
 - Node.js >=20.11
 - Python >=3.8
 
-### Set up your Tinybird account and Workspace
+### Set up your Tinybird account and Workspace
 
 To build this real-time dashboard, you need a free Tinybird account. You can sign up for your account [here](https://www.tinybird.co/signup).
 
@@ -25,7 +25,7 @@ This project is licensed under the MIT License.
 
 ### Need help?
 
-&bull; [Community Slack](https://www.tinybird.co/join-our-slack-community) &bull; [Tinybird Docs](https://docs.tinybird.co/) &bull;
+&bull; [Community Slack](https://www.tinybird.co/join-our-slack-community) &bull; [Tinybird Docs](https://www.tinybird.co/docs) &bull;
 
 ## Credits
 
