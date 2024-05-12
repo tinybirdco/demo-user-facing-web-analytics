@@ -1,33 +1,33 @@
-<p>
-  <a href="https://www.tinybird.co/join-our-slack-community"><img alt="Slack Status" src="https://img.shields.io/badge/slack-chat-1FCC83?style=flat&logo=slack"></a>
-</p>
+# Use Case Demo: Web Analytics Dashboard
 
-# User Facing Web Analytics Dashboard Demo
+This repository contains code for an example Web Analytics dashboard project.
 
-This repo contains all the resources you need to build a real-time web analytics dashboard using Tinybird and a Next.js app. For a complete walkthrough on how to build a real-time dashboard from scratch, read the [Tinybird tutorial here](https://www.tinybird.co/docs/guides/tutorials/user-facing-web-analytics).
+If you're building a service that allows users to deploy their own sites (think Vercel, or Shopfy), you're going to want to show your users how their sites are performing. You could rely on third-party services like Google Analytics, but providing these features natively can be a big selling point for your service. To do so, you'll need to handle the ingestion and analysis of events at scale, as well as the secure publication of insights to your users via your app. This project demonstrates how to build this using Tinybird, and how to integrate it into a Next.js app.
 
-## Getting Started
+Read more about this use cases (here)[https://www.tinybird.co/docs/use-cases/web-analytics].
 
-### Prerequisites
+## Try it live
 
-- Node.js >=20.11
-- Python >=3.8
+Try the [live demo](https://web-analytics.demos.tinybird.co).
 
-### Set up your Tinybird account and Workspace
+## Watch the workshop
 
-To build this real-time dashboard, you need a free Tinybird account. You can sign up for your account [here](https://www.tinybird.co/signup).
+Want to watch somebody build this demo live? [Watch the workshop](https://www.tinybird.co/docs/live/web-analytics).
 
-## Admin stuff
+## Deploy it yourself
 
-### License
+[Read the guide](https://www.tinybird.co/docs/guides/tutorials/user-facing-web-analytics) to deploy this demo application yourself.
 
-This project is licensed under the MIT License.
+## License
 
-### Need help?
+This code is available under the MIT license. See the [LICENSE](./LICENSE.txt) file for more details.
 
-&bull; [Community Slack](https://www.tinybird.co/join-our-slack-community) &bull; [Tinybird Docs](https://www.tinybird.co/docs) &bull;
+## Need help?
 
-## Credits
+- [Tinybird Slack Community](https://www.tinybird.co/community)
+- [Tinybird Docs](https://www.tinybird.co/docs)
+
+## Authors
 
 - [Rafa Moreno](https://github.com/rmorehig)
 - [Raquel Yuste](https://github.com/raqyuste)
