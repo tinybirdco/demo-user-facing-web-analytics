@@ -4,7 +4,7 @@ This repository contains code for an example Web Analytics dashboard project.
 
 If you're building a service that allows users to deploy their own sites (think Vercel, or Shopfy), you're going to want to show your users how their sites are performing. You could rely on third-party services like Google Analytics, but providing these features natively can be a big selling point for your service. To do so, you'll need to handle the ingestion and analysis of events at scale, as well as the secure publication of insights to your users via your app. This project demonstrates how to build this using Tinybird, and how to integrate it into a Next.js app.
 
-Read more about this use cases (here)[https://www.tinybird.co/docs/use-cases/web-analytics].
+Read more about this use cases [here](https://www.tinybird.co/docs/use-cases/web-analytics).
 
 ## Try it live
 
